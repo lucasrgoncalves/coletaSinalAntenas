@@ -1,0 +1,10 @@
+Olá!
+
+Para iniciar a utilização do Script é preciso que crie os 2 arquivos abaixo:
+
+1 - IPSubiquiti.txt  (Inserir dentro deste arquivo os IPs de seus Ubiquiti's deixando apenas os IPs nesse arquivo, separando por 1 IP por linha)
+2 - IPSMikrotik.txt (Mesma descrição do Ubiquiti).
+
+IMPORTANTE: Este foi meu primeiro Script em SHELL então COM CERTEZA ele pode ser melhorado.
+
+Obrigado e bom uso!
